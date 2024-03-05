@@ -1,0 +1,11 @@
+
+This is the rest api controller for grades
+
+
+// This method handles the request to get student grades for a course
+// The endpoint is api/{version}/courses/{course_id}/grades
+// We are using the authentication token from the request to fetch the grades of a course
+// by the authenticated student who is making the request
+rest api controller (authenticated student id):
+    return student grade view 
+
