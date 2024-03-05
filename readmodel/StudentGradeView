@@ -1,0 +1,7 @@
+// This is a read model for the student view of grades
+
+int course_id
+int student_id
+list of assignments and grades
+category grades
+total grade
