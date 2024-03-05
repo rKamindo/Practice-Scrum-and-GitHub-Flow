@@ -7,5 +7,6 @@ This is the rest api controller for grades
 // We are using the authentication token from the request to fetch the grades of a course
 // by the authenticated student who is making the request
 rest api controller (authenticated student id):
+    call method in grade service class to get student grades for a course
     return student grade view 
 
